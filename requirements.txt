@@ -1,0 +1,8 @@
+pandas
+ccxt
+ta
+matplotlib
+lightweight_charts
+ipykernel
+websockets
+openpyxl

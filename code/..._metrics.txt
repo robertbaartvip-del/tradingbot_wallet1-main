@@ -1,0 +1,46 @@
+--- General ---
+Period: [2023-12-03 00:00:00] -> [2024-12-03 00:00:00]
+Initial balance: 1000000.0 $
+Final balance: 993248.71 $
+Performance: -0.68 %
+Hodl performance: 254.1%
+Performance/Hodl: -71.95 %
+Total trades: 11511
+Time in position: 39.03 %
+
+--- Health ---
+Win rate: 43.49 %
+Max drawdown at trade close: -0.68 %
+Max drawdown at equity update: -0.68 %
+Profit factor: 0.54
+Return over max drawdown: -1.0
+Sharpe ratio: -24.29
+Sortino ratio: -28.05
+Calmar ratio: -1.0
+
+--- Trades ---
+Average net PnL: -11.73 %
+Average trades per day: 31.365
+Average trades duration: 0 days 00:17:52.118842845
+Best trade: +566.71 % entered 2024-08-05 13:30:00 exited 2024-08-05 13:48:00
+Worst trade: -424.52 % entered 2024-04-13 22:45:00 exited 2024-04-13 22:51:00
+Total winning trades: 5006
+Total loosing trades: 6505
+Average net PnL winning trades: 31.89 %
+Average net PnL loosing trades: -45.3 %
+Mean winning trades duration: 0 days 00:22:21.262485017
+Mean loosing trades duration: 0 days 00:14:24.996156802
+Max win streak: 8
+Max lose streak: 17
+Open reasons:
+Open long 1     5782
+Open short 1    5729
+Close reasons:
+SL long     5782
+SL short    5729
+
+--- Fees in Quote ---
+Total: 6329.08
+Biggest: 0.57
+Average: 0.55
+
